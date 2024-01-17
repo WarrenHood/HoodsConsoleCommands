@@ -9,3 +9,8 @@ C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release
 C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.csproj.CoreCompileInputs.cache
 C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.dll
 C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.pdb
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\Assembly-CSharp.dll
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\Unity.InputSystem.dll
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\Unity.Netcode.Runtime.dll
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.csproj.CopyComplete
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\Unity.TextMeshPro.dll
