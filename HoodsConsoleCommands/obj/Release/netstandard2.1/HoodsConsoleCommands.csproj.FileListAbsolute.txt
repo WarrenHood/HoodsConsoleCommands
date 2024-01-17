@@ -1,0 +1,11 @@
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\HoodsConsoleCommands.deps.json
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\HoodsConsoleCommands.dll
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\bin\Release\netstandard2.1\HoodsConsoleCommands.pdb
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.csproj.AssemblyReference.cache
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\PluginInfo.cs
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.AssemblyInfoInputs.cache
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.AssemblyInfo.cs
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.csproj.CoreCompileInputs.cache
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.dll
+C:\Users\nullb\programming\HoodsConsoleCommands\HoodsConsoleCommands\obj\Release\netstandard2.1\HoodsConsoleCommands.pdb

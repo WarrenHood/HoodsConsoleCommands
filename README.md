@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# HoodsConsoleCommands
+A Lethal Company mod that aims to adds some hopefully useful console commands to the game.
